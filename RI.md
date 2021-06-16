@@ -6,7 +6,7 @@ Conformément à l’article 4 de ses statuts, les membres de l’association pe
 
 Les membres actifs, parmi lesquels sont élus conformément aux Statuts :
 
--	Les membres du Bureau, chargés du suivi de la qualité de l’activité de l’Association, et du respect de ses engagements vis-à-vis de ses clients, de la CNJE, des étudiants, de MINES ParisTech et de ses partenaires ; le bureau est constitué du Président, du Secrétaire Général, du Trésorier et du Vice-Président.
+-	Les membres du Bureau, chargés du suivi de la qualité de l’activité de l’Association, et du respect de ses engagements vis-à-vis de ses clients, de la CNJE, des étudiants, de MINES ParisTech et de ses partenaires ; le bureau est constitué au minimum du Président, du Secrétaire Général, du Trésorier et du Vice-Président.
 -	Les membres du Conseil d’Administration, chargés de l’administration et de la gestion de l’Association, et des projets de développement liés à l’activité de l’Association. Il est composé du Bureau et des personnes suivantes : le Vice-Trésorier, le Responsable du pôle Développement Commercial, le Responsable du pôle Études, le Responsable des Systèmes d’Informations, le Responsable Communication ainsi que les membres de ces pôles.
 
 Les membres intervenants, chargés de la réalisation des études confiées à l’Association.
@@ -21,7 +21,7 @@ La qualité de membre donne droit au titre d'intervenant ; ainsi, tout membre pe
 
 ### ARTICLE 2 : COTISATIONS
 
-Il a été décidé au 17 avril 2019 que la cotisation à JuMP n’est pas obligatoire pour acquérir le statut de membre de l’association. 
+Il a été décidé au 17 avril 2019 que la cotisation à JuMP n’est pas obligatoire pour acquérir le statut de membre de l’association. En cas de nécessité de levée de fonds, une cotisation peut être rétablie par le Conseil d'Administration.  
  
 ### ARTICLE 3 : PROCEDURE D’ADHESION DES MEMBRES
  
@@ -32,7 +32,8 @@ Tous les membres de l’Association doivent constituer pour l’intégralité de
 La photocopie de la carte d’étudiant doit être renouvelée à chaque année scolaire.
 -	La photocopie de leur carte d’identité ou passeport ;
 -	La photocopie de leur carte vitale ou de leur attestation de sécurité sociale ;
--	La photocopie de leur attestation de cotisation vie étudiante et campus.
+-	La photocopie de leur attestation de cotisation vie étudiante et campus ;
+-	Un relevé d'identité bancaire.
 
 Une procédure spéciale définie par la CNJE est appliquée à l’inscription des étudiants étrangers.
 
@@ -211,4 +212,8 @@ En cas de conflit avec un intervenant et de refus de ce dernier de signer un ave
 
 Dans ce cas, l'intervenant sera convoqué devant le Conseil d'Administration, qui lui exposera ses reproches et la sanction qu'il souhaite appliquer. L'intervenant aura droit de réponse au Conseil d'Administration, et l'ensemble des éléments seront consignés dans le compte-rendu du Conseil d'Administration.
 
-Par la suite, le vote du Conseil d'Administration validera une décision et une copie de la convocation de l'étudiant et du compte-rendu du Conseil d'Administration (avec le détail exhaustif des votes et des modifications) sera conservé dans le dossier d'étude à la place de l'avenant au récapitulatif de mission.
+Par la suite, le vote du Conseil d'Administration validera une décision et une copie de la convocation de l'étudiant et du compte-rendu du Conseil d'Administration (avec le détail exhaustif des votes et des modifications) sera conservé dans le dossier d'étude à la place de l'avenant au récapitulatif de mission. 
+
+### ARTICLE 12 : COMPORTEMENT ET IMAGE
+
+Les membres de l'association quelque soit leur statut représentent JuMP dès lors qu'ils agissent dans le cadre de ses activités. À ce titre, ils sont tenus de sauvegarder l'image de JuMP en arborant une tenue vestimentaire et un comportement décent et professionnel. Tout manquement à ces principes expose à des sanctions de la part du Conseil d'Administration pouvant aller jusqu'à la radiation dans le cadre prévu par l'article 5 du présent règlement. 
