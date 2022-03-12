@@ -56,7 +56,7 @@ Le membre concerné par une radiation pour faute grave devra faire valoir ses ex
 
 #### 6.1 : CONVOCATION
 
-L’Assemblée Générale Ordinaire et les Assemblées Générales Extraordinaires sont convoquées par le Secrétaire Général. La convocation se fera par voie numérique au plus tard quinze jours avant la réunion. Il est fait mention du lieu, du jour, de l’heure, ainsi que de l’ordre du jour.
+L’Assemblée Générale Ordinaire et les Assemblées Générales Extraordinaires sont convoquées par le Secrétaire Général. La convocation se fera par voie numérique au plus tard sept jours avant la réunion. Il est fait mention du lieu, du jour, de l’heure, ainsi que de l’ordre du jour.
 
 L’ordre du jour peut être complété par les membres de l’assemblée. Ils doivent y faire inscrire les questions qu’ils souhaitent voir traiter avant le début de la séance.
 
