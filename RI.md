@@ -21,7 +21,7 @@ La qualité de membre donne droit au titre d'intervenant ; ainsi, tout membre pe
 
 ### ARTICLE 2 : COTISATIONS
 
-Il a été décidé au 17 avril 2019 que la cotisation à JuMP n’est pas obligatoire pour acquérir le statut de membre de l’association. En cas de nécessité de levée de fonds, une cotisation peut être rétablie par le Conseil d'Administration.  
+Il a été décidé au 17 avril 2019 que la cotisation à JuMP n’est pas obligatoire pour acquérir le statut de membre de l’association. En cas de nécessité de levée de fonds, une cotisation peut être décidée par un vote en Conseil d'Administration. La décision doit alors être approuvée par deux tiers des administrateurs.
  
 ### ARTICLE 3 : PROCEDURE D’ADHESION DES MEMBRES
  
@@ -32,7 +32,6 @@ Tous les membres de l’Association doivent constituer pour l’intégralité de
 La photocopie de la carte d’étudiant doit être renouvelée à chaque année scolaire.
 -	La photocopie de leur carte d’identité ou passeport ;
 -	La photocopie de leur carte vitale ou de leur attestation de sécurité sociale ;
--	La photocopie de leur attestation de cotisation vie étudiante et campus ;
 -	Un relevé d'identité bancaire.
 
 Une procédure spéciale définie par la CNJE est appliquée à l’inscription des étudiants étrangers.
@@ -130,6 +129,8 @@ En cas d’absence du Président, il sera remplacé par le Trésorier, et en cas
 Lors de sa réunion, le Conseil d’Administration peut exiger du Trésorier la communication de l’état de la comptabilité et lui ordonner toute opération jugée nécessaire au contrôle de sa gestion.
 
 Le Conseil d’Administration doit statuer sur les dépenses dont le montant est supérieur ou égal à 1000€.
+
+Les notes de frais sont à transmettre au trésorier au plus tôt et dans la limite de deux mois suivant le paiement.
 
 ### ARTICLE 8 : FONCTIONS DES MEMBRES DU BUREAU ET DU CONSEIL D’ADMINISTRATION
 
