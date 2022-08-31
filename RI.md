@@ -36,11 +36,20 @@ La photocopie de la carte d’étudiant doit être renouvelée à chaque année 
 
 Une procédure spéciale définie par la CNJE est appliquée à l’inscription des étudiants étrangers.
 
-### ARTICLE 4 : EFFETS DE L’ADHESION
+### ARTICLE 4 : COMMISSION NATIONALE DE L’INFORMATIQUE ET DES LIBERTES
+Les termes « données à caractère personnel », « traiter/traitement », « responsable du traitement », « sous traitement » ont la même signification que celle qui leur est donnée par la Loi « Informatique et Libertés » du 6 janvier 1978, ainsi que par tout Règlement européen dès ce dernier applicable, ci-après dénommés « la Règlementation ». 
+
+Les informations recueillies lors de l'inscription de l'Étudiant sont nécessaires à l'adhésion. Elles font l’objet d’un traitement informatique, également après la perte de qualité de membre et en tant qu’ancien membre. Ces informations sont destinées à JuMP et traitées par le Secrétaire Général pour la gestion des adhérents de JuMP.
+
+Elles sont conservées pendant une durée de 10 ans et sont destinées au Secrétaire Général de JuMP. 
+
+Conformément à la Règlementation, l’Étudiant dispose et peut exercer ses droits d'accès, de rectification, d’effacement, d’opposition, à la portabilité, aux informations qui le concernent et les faire rectifier en contactant le Secrétaire Général de JuMP, par envoi d'un courrier électronique à contact@jump-mines.fr ou bien par courrier postal.
+
+### ARTICLE 5 : EFFETS DE L’ADHESION
 
 L’adhésion à l’Association entraine l’acceptation sans réserve des clauses prévues par les statuts et le présent Règlement Intérieur ainsi que le respect de l’ensemble des dispositions de la charte des Junior-Entreprises.
 
-### ARTICLE 5 : PERTE DE LA QUALITE DE MEMBRE
+### ARTICLE 6 : PERTE DE LA QUALITE DE MEMBRE
 
 La démission d’un membre est possible. Cependant, ce membre doit avoir terminé les études et autres projets au titre desquels il s’est engagé dans le cadre du fonctionnement de l’Association.
 
@@ -51,15 +60,16 @@ La radiation est décidée à la majorité des deux tiers par le Conseil d’Adm
 
 Le membre concerné par une radiation pour faute grave devra faire valoir ses explications et observations au Conseil d’Administration par écrit ou par oral.
 
-### ARTICLE 6 : ASSEMBLEE GENERALE
 
-#### 6.1 : CONVOCATION
+### ARTICLE 7 : ASSEMBLEE GENERALE
+
+#### 7.1 : CONVOCATION
 
 L’Assemblée Générale Ordinaire et les Assemblées Générales Extraordinaires sont convoquées par le Secrétaire Général. La convocation se fera par voie numérique au plus tard sept jours avant la réunion. Il est fait mention du lieu, du jour, de l’heure, ainsi que de l’ordre du jour.
 
 L’ordre du jour peut être complété par les membres de l’assemblée. Ils doivent y faire inscrire les questions qu’ils souhaitent voir traiter avant le début de la séance.
 
-#### 6.2 : VOTE
+#### 7.2 : VOTE
 
 Le quorum pour les Assemblées Générales Ordinaire et Extraordinaires est fixé aux deux tiers des membres votants. Le statut de membre votant est défini dans les statuts.
 
@@ -69,7 +79,7 @@ Si l’un des membres le demande, le scrutin peut être tenu à bulletin secret.
 
 Un membre ne peut pas avoir plus de trois procurations.
 
-#### 6.3 : PROCES VERBAL
+#### 7.3 : PROCES VERBAL
 
 Il sera tenu un procès-verbal de toutes les séances des Assemblées Générales Ordinaires ou Extraordinaires.
 
@@ -79,17 +89,17 @@ En cas d’absence du Président, il sera remplacé par le Trésorier, et en cas
 
 L’ensemble des procès-verbaux des Assemblées générales devra être conservé sans limitation de durée au siège de l’Association dans un classeur dédié.
 
-### ARTICLE 7 : CONSEIL D’ADMINISTRATION
+### ARTICLE 8 : CONSEIL D’ADMINISTRATION
 
-#### 7.1. COMPOSITION
+#### 8.1. COMPOSITION
 
-##### 7.1.1. Composition initiale
+##### 8.1.1. Composition initiale
 
 Le Conseil d’Administration est intégralement renouvelé lors de l’Assemblée Générale Ordinaire. Les membres qui entreront en fonction lors de l’exercice suivant sont élus à partir d’un projet présenté lors de l’Assemblée Général Ordinaire. La candidature doit être validée par le Conseil d’Administration sortant. Le mandat d’Administrateur est renouvelable.
 
 Il doit y avoir au moins un candidat aux postes suivants : un Président, un Secrétaire Général, un Trésorier, un Vice-Président, un Vice-Trésorier, un Responsable du pôle Développement Commercial, un Responsable de la Communication, un Responsable des Systèmes d’Informations, un Responsable du pôle Études. 
 
-##### 7.1.2. Evolution du conseil d’administration
+##### 8.1.2. Evolution du conseil d’administration
 
 Le Conseil d’Administration peut nommer un nouveau membre du Conseil d’Administration de manière exceptionnelle.
 
@@ -101,21 +111,21 @@ De même, un membre du Conseil d’Administration peut proposer sa démission au
 
 Un ancien membre du Conseil d’Administration ne peut être chargé d’un projet rémunéré au sein de l’Association dans le mois qui suit sa démission du conseil.
 
-#### 7.2. REUNION
+#### 8.2. REUNION
 
 Conformément aux statuts de l’Association, le Conseil d’Administration se réunit autant de fois que besoin sur convocation du Secrétaire Général, au moins une fois par mois, ou sur la demande du quart de ses membres.	 
 
-#### 7.3. CONDITIONS DE FONCTIONNEMENT
+#### 8.3. CONDITIONS DE FONCTIONNEMENT
 
 Le Conseil d’Administration doit réunir un quorum de un tiers de ses membres présents et représentés.
 
 Les décisions sont prises à la majorité simple des membres présents et représentés ; en cas de partage, la voix du Président est prépondérante.
 
-#### 7.4. FONCTIONS DES ADMINISTRATEURS
+#### 8.4. FONCTIONS DES ADMINISTRATEURS
 
 Le Conseil d’Administration peut décider de la nomination d’un certain nombre de responsables chargés chacun d’un domaine particulier.
 
-#### 7.5. COMPTE RENDU ET PROCES VERBAL DES DELIBERATIONS
+#### 8.5. COMPTE RENDU ET PROCES VERBAL DES DELIBERATIONS
 
 Un compte rendu de chacune des réunions du Conseil d’Administration est établi par le Secrétaire Général. Il doit comporter l’ordre du jour ainsi que l’indication des membres présents ou représentés. Le compte rendu doit être signé par le Président et le Secrétaire Général.
 
@@ -124,7 +134,7 @@ Le procès-verbal sera établi, sans blanc et dûment paginé, par le Secrétair
 
 En cas d’absence du Président, il sera remplacé par le Trésorier, et en cas d’absence du Trésorier il sera remplacé par un Administrateur présent choisi d’un commun accord, et il en sera porté mention sur le compte rendu ou le procès-verbal. Dans tous les cas il devra s’agir de deux Administrateurs distincts. 
 
-#### 7.6. CONTROLE DE LA TRESORERIE
+#### 8.6. CONTROLE DE LA TRESORERIE
 
 Lors de sa réunion, le Conseil d’Administration peut exiger du Trésorier la communication de l’état de la comptabilité et lui ordonner toute opération jugée nécessaire au contrôle de sa gestion.
 
@@ -132,9 +142,9 @@ Le Conseil d’Administration doit statuer sur les dépenses dont le montant est
 
 Les notes de frais sont à transmettre au trésorier au plus tôt et dans la limite de deux mois suivant le paiement.
 
-### ARTICLE 8 : FONCTIONS DES MEMBRES DU BUREAU ET DU CONSEIL D’ADMINISTRATION
+### ARTICLE 9 : FONCTIONS DES MEMBRES DU BUREAU ET DU CONSEIL D’ADMINISTRATION
 
-#### 8.1. PRESIDENT
+#### 9.1. PRESIDENT
 
 Le Président représente l’Association dans tous les actes de la vie civile et est investi de pouvoirs à cet effet. Il peut, de manière limitative, déléguer certaines de ses attributions. Le Président est habilité à effectuer les ordres de paiement. Il a également qualité pour passer en Justice au nom de l’Association, tant en demande qu’en défense.
 
@@ -146,7 +156,7 @@ Le président est également en charge de la communication sur les réseaux soci
 
 En cas d’absence du Président supérieure à trente jours, le Conseil d’Administration peut nommer un Président par intérim parmi ses membres, et donner à celui-ci délégation de signature et mandat de représentation pour la période d’absence du Président.
 
-#### 8.2. SECRETAIRE GENERAL
+#### 9.2. SECRETAIRE GENERAL
 
 Le Secrétaire Général convoque les Assemblées Générales, les réunions du Conseil d’Administration, celles du Bureau ainsi que les réunions de gestion avec les différentes parties de JuMP.
 
@@ -158,7 +168,7 @@ Il est également responsable des Ressources humaines : il réalise les dossiers
 
 Il est également en charge de la gestion des anciens de la structure.
 
-#### 8.3. TRESORIER
+#### 9.3. TRESORIER
 
 Le Trésorier est chargé de tout ce qui concerne la gestion du patrimoine de l’Association. Il tient une comptabilité régulière, au jour le jour, de toutes les opérations, et rend compte à l’Assemblée générale qui statut sur la gestion. Il est responsable de la bonne tenue de la comptabilité.
 
@@ -166,29 +176,29 @@ Toute dépense au sein de l’association donne lieu à une autorisation préala
 
 Il est assisté dans sa tâche par un Vice-Trésorier, à qui il délègue une partie de ses fonctions dont notamment la bonne tenue de la comptabilité.
 
-#### 8.4. VICE-PRESIDENT
+#### 9.4. VICE-PRESIDENT
 
 Le Vice-Président est en charge du fonctionnement interne de JuMP. En particulier il est responsable de l’élaboration et du suivi des plans d’actions et plus généralement du système de management de la qualité. Il met tout en son pouvoir pour garantir et assurer une amélioration continue des process de JuMP en coopération avec les responsables des pôles concernés.
 
 Il est également responsable de la préparation de l’audit.
 
-#### 8.5. RESPONSABLE DU PÔLE DEVELOPPEMENT COMMERCIAL
+#### 9.5. RESPONSABLE DU PÔLE DEVELOPPEMENT COMMERCIAL
 
 Le Responsable du pôle Développement Commercial gère le pôle Développement Commercial de l’Association, constitué de l’ensemble des membres chargés de la prospection, de la fidélisation des clients, de l’image de marque de JuMP et du marketing. Il coordonne les campagnes de prospection et l’attribution des propositions commerciales.
 
-#### 8.6. RESPONSABLE DE LA COMMUNICATION
+#### 9.6. RESPONSABLE DE LA COMMUNICATION
 
 Le Responsable de la Communication est en charge de la communication externe, des supports de communication et de la charte graphique. Il travaille en étroite collaboration avec le Président pour élaborer un plan de communication en début de mandat.
 
-#### 8.7. RESPONSABLE DU PÔLE ETUDES
+#### 9.7. RESPONSABLE DU PÔLE ETUDES
 
 Le Responsable du pôle Études est chargé du pôle Études de l’Association constitué des membres chargés du suivi de projet. Il coordonne ainsi le suivi de toutes les études en cours, la rédaction des documents clients et intervenants et leur relecture. Il audite au moins annuellement les études suivies sur le mandat avec le Vice-Président.
 
-#### 8.8. RESPONSABLE DES SYSTEMES D’INFORMATION
+#### 9.8. RESPONSABLE DES SYSTEMES D’INFORMATION
 
 Le Responsable des Systèmes d’Information est garant du bon fonctionnement des systèmes d’informations numériques au sein de l’Association.
 
-### ARTICLE 9 : FONCTION DES MEMBRES ACTIFS NON ADMINISTRATEUR
+### ARTICLE 10 : FONCTION DES MEMBRES ACTIFS NON ADMINISTRATEUR
 
 Les membres actifs non administrateurs, ont deux fonctions :
 
@@ -197,24 +207,33 @@ Les membres actifs non administrateurs, ont deux fonctions :
 
 Ils ont vocation à se former pour devenir administrateurs de l’Association au cours de l’Assemblée Générale Ordinaire. 
 
-### ARTICLE 10 : LOCAUX ET MATERIEL DE JUMP
+### ARTICLE 11 : LOCAUX ET MATERIEL DE JUMP
 
 Les membres du Conseil d’Administration possèdent un accès au local de JuMP via des clés qui leurs sont remises ainsi qu’un accès aux armoires d’archivage. Au terme de leur mandat, ils perdent l’accès et sont tenus de rendre les clefs.
 
 Il est demandé aux personnes travaillant dans le local de ranger au fur et à mesure les documents et/ou les fournitures de bureau qu’ils ont utilisés, et cela dans le respect du travail des autres.
 
-Les documents ou matériels appartenant à JuMP ne doivent pas sortir des locaux. Dans le cas d'un poste précis, des documents ou du matériel appartenant à JuMP peuvent être confiés à un administrateur pour une durée définie. Le matériel appartenant à JuMP ne doit pas être utilisé à des fins personnelles. 
+Les documents ou matériels appartenant à JuMP ne doivent pas sortir des locaux. Dans le cas d'un poste précis, des documents ou du matériel appartenant à JuMP peuvent être confiés à un administrateur pour une durée définie et sous réserve d'une demande préalable à un membre du bureau. Le matériel appartenant à JuMP ne doit pas être utilisé à des fins personnelles. 
 
 Les locaux sont réservés au travail, aux réunions et au regroupement des moyens de communication. Le local est accessible aux mêmes horaires que l’école.
 
-### ARTICLE 11 : SANCTIONS
+### ARTICLE 12 : SANCTIONS
 
-En cas de conflit avec un intervenant et de refus de ce dernier de signer un avenant au récapitulatif de mission, le conseil d'administration se réserve de statuer sur le cas, par vote.
+Les membres qui ne respecteraient pas les termes des Statuts et du présent Règlement Intérieur peuvent faire l'objet de sanctions. 
 
-Dans ce cas, l'intervenant sera convoqué devant le Conseil d'Administration, qui lui exposera ses reproches et la sanction qu'il souhaite appliquer. L'intervenant aura droit de réponse au Conseil d'Administration, et l'ensemble des éléments seront consignés dans le compte-rendu du Conseil d'Administration.
+Constitue un tel motif, par exemple : 
+* tout manquement grave ou répété aux règles de l'activité objet de l'association
+* tout manquement à l'honneur et à la probité
+* tout comportement préjudiciable aux intérêts de l'association et pouvant nuire à son image ou à son bon fonctionnement
+
+Dans ce cas, le membre sera convoqué devant le Conseil d'Administration, qui lui exposera ses reproches et la sanction qu'il souhaite appliquer. L'intervenant aura droit de réponse au Conseil d'Administration, et l'ensemble des éléments seront consignés dans le compte-rendu du Conseil d'Administration.
 
 Par la suite, le vote du Conseil d'Administration validera une décision et une copie de la convocation de l'étudiant et du compte-rendu du Conseil d'Administration (avec le détail exhaustif des votes et des modifications) sera conservé dans le dossier d'étude à la place de l'avenant au récapitulatif de mission. 
 
-### ARTICLE 12 : COMPORTEMENT ET IMAGE
+La sanction doit être prononcée à une majorité de 2/3 des votants.
 
-Les membres de l'association quelque soit leur statut représentent JuMP dès lors qu'ils agissent dans le cadre de ses activités. À ce titre, ils sont tenus de sauvegarder l'image de JuMP en arborant une tenue vestimentaire et un comportement décent et professionnel. Tout manquement à ces principes expose à des sanctions de la part du Conseil d'Administration pouvant aller jusqu'à la radiation dans le cadre prévu par l'article 5 du présent règlement. 
+### ARTICLE 13 : COMPORTEMENT ET IMAGE
+
+Les membres de l'association quelque soit leur statut représentent JuMP dès lors qu'ils agissent dans le cadre de ses activités. À ce titre, ils sont tenus de sauvegarder l'image de JuMP en arborant une tenue vestimentaire et un comportement décent et professionnel conforme aux règlement intérieur et statuts de l'association. Tout manquement à ces principes expose à des sanctions de la part du Conseil d'Administration pouvant aller jusqu'à la radiation dans le cadre prévu par l'article 6 du présent règlement. 
+
+Toutes dégradations imputables aux membres de l'association entraineront la mise en cause de leur responsabilité civile.
