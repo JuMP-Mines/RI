@@ -140,7 +140,11 @@ Lors de sa réunion, le Conseil d’Administration peut exiger du Trésorier la 
 
 Le Conseil d’Administration doit statuer sur les dépenses dont le montant est supérieur ou égal à 1000€.
 
-Les notes de frais sont à transmettre au trésorier au plus tôt et dans la limite de deux mois suivant le paiement.
+Les notes de frais sont à transmettre au trésorier au plus tôt et dans la limite d'un mois après le paiement.
+
+Toute dépense prévue par note de frais doit être validée en amont par le Trésorier. En cas de montant supérieur à 500 euros, elle doit être validée de surcroît par le Président ou le Secrétaire Général.
+
+La validation de la demande de remboursement est soumise à l'approbation du Trésorier et d'un second approbateur. Lorsque le demandeur est habilité à effectuer des ordres de paeiement, l'approbation supplémentaire d'un tiers non habilité est requise.
 
 ### ARTICLE 9 : FONCTIONS DES MEMBRES DU BUREAU ET DU CONSEIL D’ADMINISTRATION
 
