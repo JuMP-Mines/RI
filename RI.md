@@ -97,7 +97,7 @@ L’ensemble des procès-verbaux des Assemblées générales devra être conserv
 
 Le Conseil d’Administration est intégralement renouvelé lors de l’Assemblée Générale Ordinaire. Les membres qui entreront en fonction lors de l’exercice suivant sont élus à partir d’un projet présenté lors de l’Assemblée Général Ordinaire. La candidature doit être validée par le Conseil d’Administration sortant. Le mandat d’Administrateur est renouvelable.
 
-Il doit y avoir au moins un candidat aux postes suivants : un Président, un Secrétaire Général, un Trésorier, un Vice-Président, un Vice-Trésorier, un Responsable du pôle Développement Commercial, un Responsable de la Communication, un Responsable des Systèmes d’Informations, un Responsable du pôle Études. 
+Il doit y avoir au moins un candidat aux postes suivants : un Président, un Secrétaire Général, un Trésorier, un Vice-Président, un Vice-Trésorier, un Responsable du pôle Développement Commercial, un Responsable du pôle Études. 
 
 ##### 8.1.2. Evolution du conseil d’administration
 
