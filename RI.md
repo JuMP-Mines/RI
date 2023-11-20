@@ -6,12 +6,13 @@ Conformément à l’article 4 de ses statuts, les membres de l’association pe
 
 Les membres actifs, parmi lesquels sont élus conformément aux Statuts :
 
--	Les membres du Bureau, chargés du suivi de la qualité de l’activité de l’Association, et du respect de ses engagements vis-à-vis de ses clients, de la CNJE, des étudiants, de MINES Paris et de ses partenaires ; le bureau est constitué au minimum du Président, du Secrétaire Général, du Trésorier et du Vice-Président.
--	Les membres du Conseil d’Administration, chargés de l’administration et de la gestion de l’Association, et des projets de développement liés à l’activité de l’Association. Il est composé du Bureau et des personnes suivantes : le Vice-Trésorier, le Responsable du pôle Développement Commercial, le Responsable du pôle Études, le Responsable des Systèmes d’Informations, le Responsable Communication ainsi que les membres de ces pôles.
+-	Les membres du Bureau, également administrateurs comme défini ci-dessous, chargés du suivi de la qualité de l’activité de l’Association, et du respect de ses engagements vis-à-vis de ses clients, de la CNJE, des étudiants, de MINES Paris et de ses partenaires ; le bureau est constitué au minimum du Président, du Secrétaire Général, du Trésorier et du Vice-Président.
+-	Les membres du Conseil d’Administration ou administrateurs, chargés de l’administration et de la gestion de l’Association, et des projets de développement liés à l’activité de l’Association. Il est composé du Bureau et des personnes suivantes : le Vice-Trésorier, le Responsable du pôle Développement Commercial, le Responsable du pôle Études, le Responsable des Systèmes d’Informations, le Responsable Communication ainsi que les membres de ces pôles.
+- Les membres simples actifs qui sont les candidats aux postes d’administrateurs décrits ci-dessus
 
 Les membres intervenants, chargés de la réalisation des études confiées à l’Association.
 
-Les membres du Comité d’Orientation Stratégique (COS), élus par le conseil d’administration sur proposition du Secrétaire Général. Sont éligible les anciens administrateurs ayant fait partie des mandats n+2 jusqu’à n+7 inclus, avec n le mandat en activité.
+Les membres du Comité d’Orientation Stratégique (COS), élus par le conseil d’administration sur proposition du Secrétaire Général. Sont éligibles les anciens administrateurs ayant fait partie des mandats n+2 jusqu’à n+7 inclus, avec n le mandat en activité. Leur mission est consultative, ils apportent du recul à la structure et peuvent soumettre au Conseil d'Administration leurs propositions sans pour autant détenir un droit de vote.
 
 Les membres honoraires, anciens membres du Bureau ou du Conseil d’Administration.
 
@@ -28,13 +29,14 @@ Il a été décidé au 17 avril 2019 que la cotisation à JuMP n’est pas oblig
 Tous les membres de l’Association doivent constituer pour l’intégralité de leur scolarité un dossier contenant les pièces suivantes :
 
 -	Un bulletin d’adhésion complet certifiant notamment qu’ils ont lu et adhèrent aux statuts et au présent règlement intérieur de l’association mis à leur disposition sur simple demande par le Secrétaire Général ;
--	La photocopie de la carte d’étudiant de l’année en cours ou leur certificat de scolarité ;
-La photocopie de la carte d’étudiant doit être renouvelée à chaque année scolaire.
--	La photocopie de leur carte d’identité ou passeport ;
--	La photocopie de leur carte vitale ou de leur attestation de sécurité sociale ;
+Et de toutes manières qui rendra les documents suivants utilisables :
+-	Leur carte d’étudiant de l’année en cours ou leur certificat de scolarité ;
+- Leur carte d’étudiant/certificat de scolarité doit être renouvelée à chaque année scolaire.
+-	Leur carte d’identité ou passeport ;
+-	Leur carte vitale ou leur attestation de sécurité sociale ;
 -	Un relevé d'identité bancaire.
 
-Une procédure spéciale définie par la CNJE est appliquée à l’inscription des étudiants étrangers.
+Une procédure spéciale pour l’inscription des étudiants étrangers peut être appliquée par la CNJE.
 
 ### ARTICLE 4 : COMMISSION NATIONALE DE L’INFORMATIQUE ET DES LIBERTES
 Les termes « données à caractère personnel », « traiter/traitement », « responsable du traitement », « sous traitement » ont la même signification que celle qui leur est donnée par la Loi « Informatique et Libertés » du 6 janvier 1978, ainsi que par tout Règlement européen dès ce dernier applicable, ci-après dénommés « la Règlementation ». 
@@ -44,6 +46,10 @@ Les informations recueillies lors de l'inscription de l'Étudiant sont nécessai
 Elles sont conservées pendant une durée de 10 ans et sont destinées au Secrétaire Général de JuMP. 
 
 Conformément à la Règlementation, l’Étudiant dispose et peut exercer ses droits d'accès, de rectification, d’effacement, d’opposition, à la portabilité, aux informations qui le concernent et les faire rectifier en contactant le Secrétaire Général de JuMP, par envoi d'un courrier électronique à contact@jump-mines.fr ou bien par courrier postal.
+
+Dans la mesure où une personne ferait valoir l’exercice de l’un de ces droits, la Junior doit y répondre 
+dans un délai d’un mois et de manière gratuite. Une fois la démarche effectuée, la Junior doit le 
+notifier par mail à la personne concernée.
 
 ### ARTICLE 5 : EFFETS DE L’ADHESION
 
@@ -117,7 +123,7 @@ Conformément aux statuts de l’Association, le Conseil d’Administration se r
 
 #### 8.3. CONDITIONS DE FONCTIONNEMENT
 
-Le Conseil d’Administration doit réunir un quorum de un tiers de ses membres présents et représentés.
+Le Conseil d’Administration doit réunir un quorum de un tiers de ses membres présents et représentés comme convenu dans les Statuts Article 9 Alinéa 3.
 
 Les décisions sont prises à la majorité simple des membres présents et représentés ; en cas de partage, la voix du Président est prépondérante.
 
@@ -138,7 +144,7 @@ En cas d’absence du Président, il sera remplacé par le Trésorier, et en cas
 
 Lors de sa réunion, le Conseil d’Administration peut exiger du Trésorier la communication de l’état de la comptabilité et lui ordonner toute opération jugée nécessaire au contrôle de sa gestion.
 
-Le Conseil d’Administration doit statuer sur les dépenses dont le montant est supérieur ou égal à 1000€.
+Le Conseil d’Administration doit statuer sur les dépenses non budgétées dont le montant est supérieur ou égal à 1000€.
 
 Les notes de frais sont à transmettre au trésorier au plus tôt et dans la limite d'un mois après le paiement.
 
@@ -236,7 +242,14 @@ Par la suite, le vote du Conseil d'Administration validera une décision et une 
 
 La sanction doit être prononcée à une majorité de 2/3 des votants.
 
-### ARTICLE 13 : COMPORTEMENT ET IMAGE
+### ARTICLE 13 : NOTE DE FRAIS KILOMETRIQUES
+
+Les notes de frais kilométriques sont utilisées pour couvrir les frais d’utilisation d’un véhicule personnel 
+dans le cadre de l’activité de l’association. C’est pour cette raison qu’une note de frais kilométrique ne 
+peut être réalisée que si la carte grise est au nom du demandeur.
+Suite au vote du Conseil d'Administration du 18/04/2023, les frais kilométriques s'élèvent à 22ct/km.
+
+### ARTICLE 14 : COMPORTEMENT ET IMAGE
 
 Les membres de l'association quelque soit leur statut représentent JuMP dès lors qu'ils agissent dans le cadre de ses activités. À ce titre, ils sont tenus de sauvegarder l'image de JuMP en arborant une tenue vestimentaire et un comportement décent et professionnel conforme aux règlement intérieur et statuts de l'association. Tout manquement à ces principes expose à des sanctions de la part du Conseil d'Administration pouvant aller jusqu'à la radiation dans le cadre prévu par l'article 6 du présent règlement. 
 
